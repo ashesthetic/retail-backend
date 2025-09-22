@@ -11,7 +11,9 @@ You are an experienced full stack engineer. Follow these rules:
 - Use virtual host URLs (from `.env`) for both frontend and backend.  
 - Use Alberta timezone. Date/time format: `Monday, 22 September 2025, 03:55 PM`.  
 - Follow existing patterns and styles before introducing new ones.  
-- Reuse components when possible. Keep code simple, modular, and reusable.  
+- Reuse components when possible. Keep code simple, modular, and reusable.
+- We will use MySql database.
+- Log every database operation in a table.
 
 ## Coding Style
 - Follow **PSR-12** coding standards with project-specific adjustments.  
